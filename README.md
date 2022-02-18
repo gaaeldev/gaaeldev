@@ -1,5 +1,5 @@
 # 👋 Olá, sou o Gaael um desenvolvedor tabalhando por amor!
-#
+
 ## 👾 Atualmente trabalho com as linguagens:
 [![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://github.com/gabrielbroken/#) [![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/gabrielbroken/#)
 #
