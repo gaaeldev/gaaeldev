@@ -7,5 +7,5 @@
 #### 👨‍💻 Discord: GaaelDev#9875
 #### 📱 WhatsAPP: (11) 98973-1741
 #
-[![follow](https://img.shields.io/github/followers/gabrielbroken.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/gabrielbroken/#)
+[![follow](https://img.shields.io/github/followers/gaaeldev.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/gabrielbroken/#)
 #
